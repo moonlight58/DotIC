@@ -2,7 +2,7 @@
 
 Un générateur d'art pointillé (halftone) qui transforme vos images en œuvres d'art constituées de points de taille variable basés sur la luminance. L'effet obtenu ressemble aux techniques d'impression traditionnelles ou aux tatouages pointillés modernes.
 
-![Image tattoo](assets\image0.jpg)
+![Image tattoo](assets/image0.jpg)
 
 ## ✨ Fonctionnalités
 
